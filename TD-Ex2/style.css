@@ -1,0 +1,43 @@
+#div
+{
+	text-align: center;
+}
+
+div#bandeau 
+{
+	background-color:rgb(17, 17, 228);
+	width:600px;
+	height:50px;
+	top: 0px;
+	font-size: 30px;
+    text-align: center;
+}
+
+div#menu 
+{
+    background-color:#f56696;
+	float:left;
+	width:100px;
+	height:400px;
+	font-size: 30px;
+    text-align: center;
+}
+
+div#contenu 
+{
+	background-color:rgb(240, 240, 20);
+	width:600px;
+	height:400px;
+	font-size: 30px;
+    text-align: center;
+}
+
+div#piedpage 
+{
+	background-color:rgb(31, 145, 31);
+	width:600px;
+	height:50px;
+    clear:both;
+	font-size: 30px;
+    text-align: center;
+}
